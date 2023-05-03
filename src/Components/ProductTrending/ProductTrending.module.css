@@ -1,0 +1,20 @@
+.section{
+    color: #0a1d37;
+    font-weight:600;
+}
+
+.underLine{
+    width:100px;
+    height:5px;
+    margin:auto;
+    background:#3a86ff;
+    margin-top:15px
+}
+
+/* .underLine1{
+    width:80px;
+    height:5px;
+    margin:auto;
+    background:#fb5607;
+    margin-top:12px
+} */

@@ -1,0 +1,14 @@
+.product_details{
+margin-top: 50px;
+}
+
+
+.product_details h2 {
+    font-size:1.8rem;
+    margin-bottom: 10px;
+}
+
+
+.price{
+    font-size: 1.3rem;
+}

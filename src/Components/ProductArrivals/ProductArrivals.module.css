@@ -1,0 +1,12 @@
+.section{
+    color: #0a1d37;
+    font-weight:600;
+}
+
+.underLine{
+    width:100px;
+    height:5px;
+    margin:auto;
+    background:#3a86ff;
+    margin-top:15px
+}

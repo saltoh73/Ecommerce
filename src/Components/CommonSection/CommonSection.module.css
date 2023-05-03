@@ -1,0 +1,13 @@
+.common_section{
+    background: linear-gradient(rgba(0,0,0,0.562), rgba(0,0,0,0.562)),url('../../assets/images/12.avif') no-repeat center center ;
+background-size: cover;
+padding: 100px 0px ;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+.common_section h1{
+    font-weight:600;
+    color :#fff
+}

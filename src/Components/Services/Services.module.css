@@ -1,0 +1,30 @@
+.servies__items{
+    padding:20px;
+    background: var(--card-bg-01);
+    display:flex;
+    align-items: center;
+    column-gap: 0.7rem;
+    border-radius: 5px;
+}
+
+.servies__items span i{
+ font-size: 2.2rem;
+ background:var(--primary-color);
+ padding:10px;
+ border-radius: 50px;
+ color:#fff;
+ font-weight:400
+}
+
+.servies__items h3{
+    color:var(--primary-color);
+ font-weight:600;
+ font-size: 1rem;
+}
+
+.servies__items p{
+    font-size: 0.9rem;
+    margin-top: 5px;
+color: #222
+
+}
